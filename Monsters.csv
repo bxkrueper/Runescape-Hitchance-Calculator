@@ -1,0 +1,123 @@
+Name,Picture Name,RSWiki link,Attack Level,Ranged Level,Magic Level,Melee Accuracy,Ranged Accuracy,Magic Accuracy,Start Combat Style,Defense Level,Armour,Melee Affinity,Ranged Affinity,Magic Affinity,Weak to Poision,Weak to Reflect,Weak to Stun,Weak to Drain,Affinity Weakness,Other Weakness
+2,Abomination,,,,,,,,,,,,,,,,,,,
+Abomination,,https://runescape.wiki/w/Abomination#Normal,60,60,60,1102,1102,1102,Melee,60,850,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Ragged Abomination,,https://runescape.wiki/w/Abomination#Ragged,1,1,1,1132,1132,1132,Melee,1,850,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Araxxi,,https://runescape.wiki/w/Araxxi,99,99,99,1653,1653,1653,Magic,80,1924,60,55,45,FALSE,FALSE,FALSE,FALSE,None,Hexhunter
+3,Araxxor,,,,,,,,,,,,,,,,,,,
+Araxxor (melee),,https://runescape.wiki/w/Araxxor#Melee,99,99,99,2458,2458,2458,Melee,85,2458,50,40,55,FALSE,FALSE,FALSE,FALSE,None,None
+Araxxor (ranged),,https://runescape.wiki/w/Araxxor#Ranged,99,99,99,2458,2458,2458,Ranged,85,2458,60,45,40,FALSE,FALSE,FALSE,FALSE,None,None
+Araxxor (magic),,https://runescape.wiki/w/Araxxor#Magic,99,99,99,2458,2458,2458,Magic,85,2458,50,55,45,FALSE,FALSE,FALSE,FALSE,None,Hexhunter
+Astellarn,,https://runescape.wiki/w/Astellarn,95,95,95,2765,2765,2765,Magic,85,2178,55,55,55,TRUE,TRUE,TRUE,TRUE,None,Dragonbane Hexhunter SlayerMask
+8,Barrows Brothers,,,,,,,,,,,,,,,,,,,
+Ahrim the Blighted,,https://runescape.wiki/w/Ahrim_the_Blighted#Normal,1,1,70,0,0,1566,Magic,70,1299,45,65,55,TRUE,TRUE,TRUE,TRUE,Arrows 90,Hexhunter
+Dharok the Wretched,,https://runescape.wiki/w/Dharok_the_Wretched#Normal,70,1,1,1566,0,0,Melee,70,1299,55,45,65,TRUE,TRUE,TRUE,TRUE,Fire 90,None
+Guthan the Infested,,https://runescape.wiki/w/Guthan_the_Infested#Normal,70,1,1,1566,0,0,Melee,70,1299,55,45,65,TRUE,TRUE,TRUE,TRUE,Air 90,None
+Karil the Tainted,,https://runescape.wiki/w/Karil_the_Tainted#Normal,1,70,1,0,1566,0,Ranged,70,1299,65,55,45,TRUE,TRUE,TRUE,TRUE,Stab 90,None
+Torag the Corrupted,,https://runescape.wiki/w/Torag_the_Corrupted#Normal,70,1,1,1566,0,0,Melee,70,1299,55,45,65,TRUE,TRUE,TRUE,TRUE,Water 90,None
+Verac the Defiled,,https://runescape.wiki/w/Verac_the_Defiled#Normal,70,1,1,1566,0,0,Melee,70,1299,55,45,65,TRUE,TRUE,TRUE,TRUE,Earth 90,None
+Akrisae the Doomed,,https://runescape.wiki/w/Akrisae_the_Doomed#Barrows,1,1,70,0,0,1486,Magic,70,1486,45,65,55,TRUE,TRUE,TRUE,TRUE,Bolts 90,None
+Linza the Disgraced,,https://runescape.wiki/w/Linza_the_Disgraced#Barrows,75,1,1,1694,0,0,Melee,75,1694,55,45,65,TRUE,TRUE,TRUE,TRUE,Fire 90,None
+Beastmaster Durzag,,https://runescape.wiki/w/Beastmaster_Durzag,85,85,85,2458,2458,2458,Melee,95,2458,55,55,55,FALSE,TRUE,FALSE,FALSE,None,None
+Black Stone Dragon,,https://runescape.wiki/w/Black_stone_dragon,95,95,95,2765,2765,2765,Magic,85,2178,55,55,55,TRUE,TRUE,FALSE,TRUE,None,Dragonbane SlayerMask
+Chaos Elemental,,https://runescape.wiki/w/Chaos_Elemental,1,1,69,1447,1447,2178,Magic,69,1447,45,65,55,TRUE,TRUE,FALSE,TRUE,Bolts 90,None
+2,Commander Zilyana,,,,,,,,,,,,,,,,,,,
+Commander Zilyana,,https://runescape.wiki/w/Commander_Zilyana#Normal,75,1,75,2178,0,1694,Melee,75,1299,40,40,40,FALSE,FALSE,FALSE,TRUE,None,None
+Commander Zilyana (hard mode),Commander Zilyana,https://runescape.wiki/w/Commander_Zilyana#Hard_Mode,75,1,75,1694,0,1694,Melee,75,1694,45,40,50,FALSE,FALSE,FALSE,TRUE,None,None
+Corporeal Beast,,https://runescape.wiki/w/Corporeal_Beast,75,75,75,1694,1694,1694,Melee,75,1694,40,40,40,TRUE,TRUE,FALSE,TRUE,None,None
+3,Dagannoth Kings,,,,,,,,,,,,,,,,,,,
+Dagannoth Rex,,https://runescape.wiki/w/Dagannoth_Rex,68,1,1,1924,0,0,Melee,68,1409,0,0,60,TRUE,TRUE,TRUE,TRUE,Fire 75,SlayerMask
+Dagannoth Supreme,,https://runescape.wiki/w/Dagannoth_Supreme,1,68,1,0,1924,0,Ranged,68,1409,60,0,0,TRUE,TRUE,FALSE,TRUE,Stab 75,BalmungClass SlayerMask
+Dagannoth Prime,,https://runescape.wiki/w/Dagannoth_Prime,1,1,68,0,0,1924,Magic,68,1409,0,60,0,TRUE,TRUE,FALSE,TRUE,Arrows 75,Hexhunter SlayerMask
+Demon Flash Mob Boss,,https://runescape.wiki/w/Demon_boss,112,112,132,1120,0,1120,Melee,85,975,55,45,65,FALSE,TRUE,FALSE,TRUE,None,SlayerMask SilverlightClass
+2,General Graardor,,,,,,,,,,,,,,,,,,,
+General Graardor,,https://runescape.wiki/w/General_Graardor#Normal,75,75,1,2178,1566,0,Melee,75,1299,50,10,50,FALSE,FALSE,FALSE,FALSE,None,None
+General Graardor (hard mode),General Graardor,https://runescape.wiki/w/General_Graardor#Hard_mode,75,75,1,1694,1924,0,Melee,75,1694,60,70,50,FALSE,FALSE,FALSE,FALSE,None,None
+2,Giant mole,,,,,,,,,,,,,,,,,,,
+Giant mole,,https://runescape.wiki/w/Giant_mole,65,1,65,1299,0,0,Melee,45,732,55,45,65,TRUE,FALSE,FALSE,TRUE,None,None
+Giant mole (hard Mode),Giant mole,https://runescape.wiki/w/Giant_mole#Hard_Mode,65,1,65,2178,0,0,Melee,45,732,55,45,65,TRUE,FALSE,FALSE,TRUE,None,None
+2,Gregorovic,,,,,,,,,,,,,,,,,,,
+Gregorovic,,https://runescape.wiki/w/Gregorovic#Normal_Mode,85,85,85,2178,2178,2178,Ranged,75,1694,55,55,55,TRUE,TRUE,FALSE,TRUE,None,None
+Gregorovic (challenge mode),Gregorovic,https://runescape.wiki/w/Gregorovic#Challenge_Mode,85,85,85,2178,2178,2178,Ranged,80,1924,55,55,55,FALSE,TRUE,FALSE,TRUE,None,None
+Har'Aken,,https://runescape.wiki/w/Har-Aken,80,80,80,1924,1924,1924,Melee,80,1924,40,40,40,TRUE,TRUE,FALSE,FALSE,None,None
+2,Helwyr,,,,,,,,,,,,,,,,,,,
+Helwyr,,https://runescape.wiki/w/Helwyr#Normal_Mode,85,85,85,2178,2178,2178,Melee,70,1486,40,40,40,TRUE,TRUE,FALSE,TRUE,None,None
+Helwyr (challenge mode),Helwyr,https://runescape.wiki/w/Helwyr#Challenge_Mode,90,90,90,2458,2458,2458,Melee,75,1694,40,40,40,TRUE,TRUE,FALSE,TRUE,None,None
+3,Kalphite King,,,,,,,,,,,,,,,,,,,
+Kalphite King (melee),,https://runescape.wiki/w/Kalphite_King#Melee,90,90,90,2343,2343,2343,Melee,85,2178,40,30,50,TRUE,TRUE,TRUE,TRUE,Fire 60,SlayerMask
+Kalphite King (ranged),,https://runescape.wiki/w/Kalphite_King#Ranged,90,90,90,2343,2343,2343,Ranged,85,2178,50,40,30,TRUE,TRUE,TRUE,TRUE,Stab 60,Keris SlayerMask
+Kalphite King (magic),,https://runescape.wiki/w/Kalphite_King#Magic,90,90,90,2343,2343,2343,Magic,85,2178,30,50,40,TRUE,TRUE,TRUE,TRUE,Arrows 60,Hexhunter SlayerMask
+2,Kalphite Queen,,,,,,,,,,,,,,,,,,,
+Kalphite Queen,,https://runescape.wiki/w/Kalphite_Queen#First_form,70,70,70,1486,1486,1486,Melee,70,1486,40,10,10,TRUE,TRUE,FALSE,TRUE,None,Keris SlayerMask
+Kalphite Queen (airborne),,https://runescape.wiki/w/Kalphite_Queen#Second_form,70,70,70,1486,1486,1486,Melee,70,1486,60,40,40,TRUE,TRUE,FALSE,TRUE,None,Keris SlayerMask
+2,Exiled Kalphite Queen,,,,,,,,,,,,,,,,,,,
+Exiled Kalphite Queen,,https://runescape.wiki/w/Exiled_Kalphite_Queen#First_form,75,75,75,1694,1694,1694,Melee,75,1694,40,10,10,TRUE,TRUE,FALSE,TRUE,None,Keris SlayerMask
+Exiled Kalphite Queen (airborne),,https://runescape.wiki/w/Exiled_Kalphite_Queen#Second_form,75,75,75,1694,1694,1694,Melee,75,1694,60,40,40,TRUE,TRUE,FALSE,TRUE,None,Keris SlayerMask
+2,Jad,,,,,,,,,,,,,,,,,,,
+TzTok-Jad,,https://runescape.wiki/w/TzTok-Jad,70,70,70,1486,1486,1486,Melee,70,1486,40,40,40,TRUE,TRUE,FALSE,TRUE,None,SlayerMask
+TokHaar-Jad,,https://runescape.wiki/w/TokHaar-Jad,79,79,79,1876,1876,1876,Melee,79,1876,40,40,40,TRUE,TRUE,FALSE,TRUE,None,None
+King Black Dragon,,https://runescape.wiki/w/King_Black_Dragon,60,60,60,1924,1132,1132,Melee,60,1132,40,40,40,TRUE,TRUE,FALSE,TRUE,None,Dragonbane SlayerMask
+2,Kree'arra,,,,,,,,,,,,,,,,,,,
+Kree'arra,,https://runescape.wiki/w/Kree%27arra#Normal,75,75,75,1694,1694,1694,Melee,75,1299,10,70,70,FALSE,FALSE,FALSE,FALSE,None,SlayerMask
+Kree'arra (hard mode),Kree'arra,https://runescape.wiki/w/Kree%27arra#Hard_mode,75,75,75,1694,1694,1694,Melee,75,1694,50,60,70,FALSE,FALSE,FALSE,FALSE,None,SlayerMask
+2,K'ril Tsutsaroth,,,,,,,,,,,,,,,,,,,
+K'ril Tsutsaroth,,https://runescape.wiki/w/K%27ril_Tsutsaroth#Normal,75,75,75,1486,0,1486,Melee,75,1299,45,40,50,FALSE,FALSE,FALSE,FALSE,Fire 75,SlayerMask
+K'ril Tsutsaroth (hard mode),K'ril Tsutsaroth,https://runescape.wiki/w/K%27ril_Tsutsaroth#Hard_mode,75,75,75,1694,0,1694,Melee,75,1694,70,80,60,FALSE,FALSE,FALSE,FALSE,None,SlayerMask
+6,Legios,,,,,,,,,,,,,,,,,,,
+Legio Primus,,https://runescape.wiki/w/Legio_Primus,1,1,90,0,0,2458,Magic,85,2178,7,70,15,FALSE,FALSE,FALSE,FALSE,Ranged 70,Hexhunter SlayerMask
+Legio Secundus,,https://runescape.wiki/w/Legio_Secundus,1,1,90,0,0,2458,Magic,85,2178,7,70,15,FALSE,FALSE,FALSE,FALSE,Ranged 70,Hexhunter SlayerMask
+Legio Tertius,,https://runescape.wiki/w/Legio_Tertius,1,1,90,0,0,2458,Magic,85,2178,7,70,15,FALSE,FALSE,FALSE,FALSE,Ranged 70,Hexhunter SlayerMask
+Legio Quartus,,https://runescape.wiki/w/Legio_Quartus,1,1,90,0,0,2458,Magic,85,2178,7,70,15,FALSE,FALSE,FALSE,FALSE,Ranged 70,Hexhunter SlayerMask
+Legio Quintus,,https://runescape.wiki/w/Legio_Quintus,1,1,90,0,0,2458,Magic,85,2178,7,70,15,FALSE,FALSE,FALSE,FALSE,Ranged 70,Hexhunter SlayerMask
+Legio Sextus,,https://runescape.wiki/w/Legio_Sextus,1,1,90,0,0,2458,Magic,85,2178,7,70,15,FALSE,FALSE,FALSE,FALSE,Ranged 70,Hexhunter SlayerMask
+Magister,,https://runescape.wiki/w/The_Magister,99,99,99,2577,2577,2577,Magic,90,2458,55,55,55,TRUE,FALSE,TRUE,TRUE,None,Hexhunter
+2,Masuta the Ascended,,,,,,,,,,,,,,,,,,,
+Masuta the Ascended (phase 1),Masuta the Ascended,https://runescape.wiki/w/Masuta_the_Ascended#Phase_1,90,90,90,2458,2458,2458,Melee,85,2178,55,55,55,TRUE,TRUE,FALSE,TRUE,None,None
+Masuta the Ascended (phase 2),Masuta the Ascended,https://runescape.wiki/w/Masuta_the_Ascended#Phase_2,90,90,90,2458,2458,2458,Ranged,85,2178,40,40,20,TRUE,TRUE,FALSE,TRUE,None,None
+Nex,,https://runescape.wiki/w/Nex,80,80,80,2023,2023,2023,Melee,80,1924,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Nex Angel of Death,,https://runescape.wiki/w/Nex:_Angel_of_Death,90,90,90,2765,2765,2765,Melee,85,2765,55,55,55,FALSE,TRUE,FALSE,TRUE,None,None
+2,Nomad,,,,,,,,,,,,,,,,,,,
+Nomad (Requiem),Nomad,https://runescape.wiki/w/Nomad#Nomad's_Requiem,75,75,75,1694,1694,1694,None,75,1694,40,40,40,FALSE,TRUE,FALSE,TRUE,None,None
+Nomad (Elegy),Nomad,https://runescape.wiki/w/Nomad#Nomad's_Elegy,95,83,83,2765,2765,2765,None,80,1924,55,55,55,TRUE,FALSE,FALSE,TRUE,None,Hexhunter
+Queen Black Dragon,,https://runescape.wiki/w/Queen_Black_Dragon,80,80,80,1924,1924,1924,Ranged,80,2074,50,50,50,FALSE,FALSE,FALSE,TRUE,None,Dragonbane SlayerMask
+6,Rise of the Six,,,,,,,,,,,,,,,,,,,
+Ahrim (RotS),,https://runescape.wiki/w/Ahrim_the_Blighted#Rise_of_the_Six,1,1,90,0,0,2458,Magic,90,2458,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Dharok (RotS),,https://runescape.wiki/w/Dharok_the_Wretched#Rise_of_the_Six,90,1,1,2458,0,0,Melee,90,1924,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Guthan (RotS),,https://runescape.wiki/w/Guthan_the_Infested#Rise_of_the_Six,90,1,1,2458,0,0,Melee,90,1924,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Karil (RotS),,https://runescape.wiki/w/Karil_the_Tainted#Rise_of_the_Six,1,90,1,0,2458,0,Ranged,90,1924,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Torag (RotS),,https://runescape.wiki/w/Torag_the_Corrupted#Rise_of_the_Six,90,1,1,2458,0,0,Melee,90,1924,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Verac (RotS),,https://runescape.wiki/w/Verac_the_Defiled#Rise_of_the_Six,90,1,1,2458,0,0,Melee,90,1924,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Sanctum Guardian,,https://runescape.wiki/w/The_Sanctum_Guardian,85,85,85,2178,2178,2178,Ranged,75,1694,55,55,55,TRUE,TRUE,TRUE,TRUE,None,None
+Seiryu,,https://runescape.wiki/w/Seiryu_the_Azure_Serpent,95,95,95,2765,2765,2765,Magic,80,1924,55,55,55,FALSE,TRUE,FALSE,TRUE,None,Hexhunter
+4,Skeletal Horror,,,,,,,,,,,,,,,,,,,
+Skeletal Horror,,https://runescape.wiki/w/Skeletal_horror#Intact,65,65,65,1299,1299,1299,Melee,65,1299,20,10,40,TRUE,TRUE,FALSE,FALSE,None,None
+Skeletal Horror (missing one arm),,https://runescape.wiki/w/Skeletal_horror#Missing_one_arm,62,62,62,1197,1197,1197,Melee,62,1197,55,55,55,TRUE,TRUE,FALSE,FALSE,None,None
+Skeletal Horror (missing both arms),,https://runescape.wiki/w/Skeletal_horror#Missing_both_arms,60,60,60,1132,1132,1132,Melee,60,1132,55,55,55,TRUE,TRUE,FALSE,FALSE,None,None
+Skeletal Horror (missing arms and tail),,https://runescape.wiki/w/Skeletal_horror#Missing_both_arms_and_tail,58,58,58,1070,1070,1070,Melee,58,1070,55,55,55,TRUE,TRUE,FALSE,FALSE,None,None
+Solak,,https://runescape.wiki/w/Solak,95,95,95,2764,2764,2764,Melee,70,1486,55,55,55,TRUE,TRUE,FALSE,TRUE,None,None
+Telos,,https://runescape.wiki/w/Telos;_the_Warden,92,92,92,2577,2577,2577,Melee,80,1924,40,40,40,TRUE,TRUE,TRUE,TRUE,None,None
+2,Twin Furies,,,,,,,,,,,,,,,,,,,
+Twin Furies,,https://runescape.wiki/w/Avaryss;_the_Unceasing#Normal_Mode,85,85,85,2178,2178,2178,Melee,70,1486,40,40,40,TRUE,TRUE,FALSE,TRUE,None,None
+Twin Furies (challenge mode),Twin Furies,https://runescape.wiki/w/Avaryss;_the_Unceasing#Challenge_Mode,90,90,90,2458,2458,2458,Melee,75,1486,40,40,40,TRUE,TRUE,FALSE,TRUE,None,None
+Verak Lith,,https://runescape.wiki/w/Verak_Lith,95,95,95,2765,2765,2765,Magic,75,1694,55,55,55,TRUE,TRUE,FALSE,TRUE,None,Dragonbane SlayerMask
+5,Vindicta & Gorvek,,,,,,,,,,,,,,,,,,,
+Vindicta,,https://runescape.wiki/w/Vindicta#Phase_1,80,80,1,1924,1924,0,Melee,75,1694,50,50,50,FALSE,TRUE,FALSE,TRUE,None,None
+Vindicta & Gorvek,,https://runescape.wiki/w/Vindicta#Phase_2,80,80,1,1924,1924,0,Melee,80,1924,50,50,50,FALSE,TRUE,FALSE,TRUE,None,None
+Vindicta (challenge mode),Vindicta,https://runescape.wiki/w/Vindicta#Phase_1_(Challenge_Mode),80,80,1,2178,2178,0,Melee,80,1924,50,50,50,FALSE,TRUE,FALSE,TRUE,None,None
+Vindicta & Gorvek (challenge mode),Vindicta & Gorvek,https://runescape.wiki/w/Vindicta#Phase_2_(Challenge_Mode),80,80,1,2178,2178,0,Melee,80,1924,50,50,50,FALSE,TRUE,FALSE,TRUE,None,None
+Gorvek (challenge mode),Gorvek,https://runescape.wiki/w/Gorvek,85,85,1,2178,2178,0,Melee,80,1924,50,50,50,FALSE,TRUE,FALSE,TRUE,None,None
+2,Vorago,,,,,,,,,,,,,,,,,,,
+Vorago,,https://runescape.wiki/w/Vorago,90,90,90,2458,0,2458,Melee,90,2178,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Vorago (hard mode),Vorago,https://runescape.wiki/w/Vorago/Strategies/Hard_mode,90,90,90,2458,0,2458,Melee,90,2178,40,40,40,FALSE,FALSE,FALSE,FALSE,None,None
+Yakamaru,,https://runescape.wiki/w/Yakamaru,99,99,99,2458,2458,2458,Ranged,99,2765,55,55,55,FALSE,TRUE,FALSE,TRUE,None,Hexhunter
+Acheron Mammoth,,https://runescape.wiki/w/Acheron_mammoth,99,1,1,3031,0,0,Melee,95,2765,65,45,55,TRUE,TRUE,TRUE,TRUE,Stab 90,SlayerMask
+Airut,,https://runescape.wiki/w/Airut,85,85,1,2178,0,0,Melee,90,2458,55,45,65,FALSE,TRUE,TRUE,TRUE,None,SlayerMask
+Camel Warrior,,https://runescape.wiki/w/Camel_Warrior,95,95,95,2765,2765,2765,Magic,90,2458,65,55,45,TRUE,TRUE,TRUE,TRUE,Crush 90,SlayerMask
+2,Edimmu,,,,,,,,,,,,,,,,,,,
+Edimmu,,https://runescape.wiki/w/Edimmu,90,1,90,2458,0,2458,Magic,85,2178,30,65,50,TRUE,TRUE,TRUE,TRUE,Slash 90,SlayerMask SalveAmuletClass
+Elite Edimmu,,https://runescape.wiki/w/Edimmu_(elite),95,1,95,2765,0,2765,Magic,90,2458,30,65,50,TRUE,TRUE,TRUE,TRUE,None,SlayerMask SalveAmuletClass
+2,Ripper Demon,,,,,,,,,,,,,,,,,,,
+Ripper Demon,,https://runescape.wiki/w/Ripper_Demon,99,1,1,3031,0,0,Melee,90,2458,55,45,65,TRUE,TRUE,FALSE,TRUE,Earth 90,SlayerMask SilverlightClass
+Slasher Demon,Ripper Demon,https://runescape.wiki/w/Slasher_Demon,99,1,1,3031,0,0,Melee,99,3031,55,45,65,TRUE,TRUE,FALSE,TRUE,Earth 90,SlayerMask SilverlightClass
+2,Wyvern,,,,,,,,,,,,,,,,,,,
+Wyvern,,https://runescape.wiki/w/Wyvern,91,91,91,2517,2517,2517,Magic,91,2517,55,45,65,TRUE,TRUE,TRUE,TRUE,Fire 90,SlayerMask
+Elite Wyvern,Wyvern,https://runescape.wiki/w/Wyvern_(elite),93,93,93,2639,2639,2639,Magic,93,2639,55,45,65,TRUE,TRUE,TRUE,TRUE,Fire 90,SlayerMask
